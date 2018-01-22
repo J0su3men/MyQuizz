@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Quizz</string>
+    <string name="hint_username">UserName</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">login</string>
+    <string name="txt_mensaje">Ready Your Name</string>
+    <string name="btn_result">Results</string>
+    <string name="toolbar_tittle_question">Question</string>
+    <string name="title_activity_question">Question</string>
+    <string name="txt_questions">Elige la Opcion correcta</string>
+    <string name="first_question">What´s the IDE official for Android programmer?</string>
+    <array name="answers">
+        <item>Eclipse</item>
+        <item>SublimText</item>
+        <item>AndroidStudio</item>
+        <item>NetBeans</item>
+    </array>
+    <integer name="correct_answer">2</integer>
+</resources>
